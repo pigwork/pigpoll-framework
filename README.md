@@ -1,1 +1,3 @@
-# pigup_framework
+# pigup framework
+
+a distributed ballot system

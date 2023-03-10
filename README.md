@@ -1,4 +1,4 @@
-# pigwork framework
+# pigpoll framework
 
 a distributed ballot system
 

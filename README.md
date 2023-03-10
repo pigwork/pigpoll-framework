@@ -1,4 +1,4 @@
-# pigup framework
+# pigwork framework
 
 a distributed ballot system
 
